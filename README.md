@@ -31,9 +31,6 @@ docker run -d --name bike_price_app -p 5000:5000 bike_price_app
 ```cpp
 http://127.0.0.1:5000
 ```
-### 📁 Project Structure
-
----
 
 ### 📁 Project Structure
 
@@ -44,7 +41,7 @@ bike-price-app/
 │── Dockerfile
 ```
 
-
+---
 
 
 
