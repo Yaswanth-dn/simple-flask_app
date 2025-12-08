@@ -35,7 +35,7 @@ http://127.0.0.1:5000
 ### 📁 Project Structure
 
 ```text
-bike-price-app/
+simple-flask_app/
 │── app1.py
 │── requirements.txt
 │── Dockerfile
